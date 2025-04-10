@@ -1,0 +1,1 @@
+const URI = "mongodb+srv://solaxes:WPrXFw2Y4ttmkaKy@solaxesnode.6hqohqa.mongodb.net/?retryWrites=true&w=majority&appName=SolaxesNode";

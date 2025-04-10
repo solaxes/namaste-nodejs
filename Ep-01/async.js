@@ -18,7 +18,7 @@ setTimeout(() => {
     console.log("Set Timeout called after 3 seconds");
 }, 3000);
 
-// Sync function - This task will not be offloaded to livuv thread pool
+// Sync function - This task will not be offloaded to libuv thread pool
 fs.readFileSync("./file.txt", "utf8");
 
 
